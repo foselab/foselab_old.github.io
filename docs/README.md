@@ -10,15 +10,15 @@ Il gruppo FM&SE lavora sia per proporre nuovi formalismi di modellazione e tecni
 
 ## People
 
-    Gargantini Angelo - Associate Professor
-    Scandurra Patrizia - Associate Professor
-    Silvia Bonfanti - PhD, now post doc
-    Andrea Bombarda - Research assistant
+- Gargantini Angelo - Associate Professor
+- Scandurra Patrizia - Associate Professor
+- Silvia Bonfanti - PhD, now post doc
+- Andrea Bombarda - PhD student
 
 ## Former member
 
-    Marco Radavelli - PhD student - expected to graduate in October 2019
-    Paolo Vavassori, PhD, postdoc and Dottorando XXVIII ciclo
+- Marco Radavelli - PhD student - expected to graduate in October 2019
+- Paolo Vavassori, PhD, postdoc and Dottorando XXVIII ciclo
 
 ## Collaborators
 
