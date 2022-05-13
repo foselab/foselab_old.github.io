@@ -16,7 +16,7 @@ lung ventilator designed, certified, manufactured, and distributed during the CO
 
 **University of Bergamo** - Angelo Gargantini, Patrizia Scandurra, Silvia Bonfanti, and Andrea Bombarda
     
-**Gran Sasso Science Institute**  Catia Rubiani, Patrizio Pelliccione, and Martina De Sanctis
+**Gran Sasso Science Institute**  Catia Trubiani, Patrizio Pelliccione, and Martina De Sanctis
 
 **Università degli Studi di Milano** Elvinia Riccobene
 
