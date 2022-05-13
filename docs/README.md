@@ -27,7 +27,7 @@ Il gruppo FM&SE lavora sia per proporre nuovi formalismi di modellazione e tecni
 - Matteo Camilli, Assegnista PostDoc University of Milan
 
 ## Projects
-- MVM-Adapt
+- [MVM-Adapt -(FISR 2020)](mvm-adapt): extending the Mechanical Ventilator Milan (MVM) with adaptive features
 
 ## Software
 
