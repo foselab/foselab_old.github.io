@@ -1,6 +1,7 @@
 # Formal Methods & Software Engineering Lab
 
-###Topics###
+### Topics
+
 Modelli, metodi e tecniche per il progetto, l'implementazione e il testing di sistemi software
 
 The FM&SE group has worked both on proposing new modelling formalisms and analysis techniques, and on applying formal methods to the fields of specification and analyses of complex systems. The systems under study come from a very broad variety of application domains, including embedded systems, service-oriented applications, distributed and self-adaptive systems, mobile/cloud and social collaborative systems, and medical devices. Particular techniques employed include Model-driven Engineering (MDE) and lightweight Modeling Languages (such as UML and UML profiles), Architecture Description Languages, state-based formal methods such as Abstract State Machines, validation and verification techniques such as basic simulation, scenario-based validation and model checking of the ASMETA toolset. Formal notations are also applied in the context of testing in the field of combinatorial interaction testing, model-based testing, and conformance runtime verification.
