@@ -15,18 +15,18 @@ Il gruppo FM&SE lavora sia per proporre nuovi formalismi di modellazione e tecni
     Silvia Bonfanti - PhD, now post doc
     Andrea Bombarda - Research assistant
 
-# Former member
+## Former member
 
     Marco Radavelli - PhD student - expected to graduate in October 2019
     Paolo Vavassori, PhD, postdoc and Dottorando XXVIII ciclo
 
-Collaborators
+## Collaborators
 
     Elvinia Riccobene @ University of Milan
     Paolo Arcaini@ National Institute of Informatics, Tokyo
     Matteo Camilli, Assegnista PostDoc University of Milan
 
-Projects
+## Projects
     MVM-Adapt
 
 Software
