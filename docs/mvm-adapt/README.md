@@ -23,3 +23,7 @@ lung ventilator designed, certified, manufactured, and distributed during the CO
 ### Collaborators
 
 ### Papers
+
+**Bombarda, Andrea / Bonfanti, Silvia / Galbiati, Cristiano / Gargantini, Angelo / Pelliccione, Patrizio / Riccobene, Elvinia / Wada, Masayuki**
+Lessons Learned from the Development of a Mechanical Ventilator for COVID-19, *2021 IEEE 32nd International Symposium on Software Reliability Engineering (ISSRE)*
+
