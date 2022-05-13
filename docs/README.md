@@ -1,6 +1,6 @@
 # Formal Methods & Software Engineering Lab
 
-### Topics
+## Topics
 
 Modelli, metodi e tecniche per il progetto, l'implementazione e il testing di sistemi software
 
@@ -22,18 +22,18 @@ Il gruppo FM&SE lavora sia per proporre nuovi formalismi di modellazione e tecni
 
 ## Collaborators
 
-    Elvinia Riccobene @ University of Milan
-    Paolo Arcaini@ National Institute of Informatics, Tokyo
-    Matteo Camilli, Assegnista PostDoc University of Milan
+- Elvinia Riccobene @ University of Milan
+- Paolo Arcaini@ National Institute of Informatics, Tokyo
+- Matteo Camilli, Assegnista PostDoc University of Milan
 
 ## Projects
-    MVM-Adapt
+- MVM-Adapt
 
-Software
+## Software
 
-    Asmeta - Abstract State Machine toolbox
-    mutrex - mutation-based test generator for regular expressions
-    ctwedge - Combinatorial Testing Web-based Editor and Generator
+- Asmeta - Abstract State Machine toolbox
+- mutrex - mutation-based test generator for regular expressions
+- ctwedge - Combinatorial Testing Web-based Editor and Generator
     
     
 
