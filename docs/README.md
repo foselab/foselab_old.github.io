@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Formal Methods & Software Engineering Lab
 
-You can use the [editor on GitHub](https://github.com/foselab/foselab.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+###Topics###
+Modelli, metodi e tecniche per il progetto, l'implementazione e il testing di sistemi software
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The FM&SE group has worked both on proposing new modelling formalisms and analysis techniques, and on applying formal methods to the fields of specification and analyses of complex systems. The systems under study come from a very broad variety of application domains, including embedded systems, service-oriented applications, distributed and self-adaptive systems, mobile/cloud and social collaborative systems, and medical devices. Particular techniques employed include Model-driven Engineering (MDE) and lightweight Modeling Languages (such as UML and UML profiles), Architecture Description Languages, state-based formal methods such as Abstract State Machines, validation and verification techniques such as basic simulation, scenario-based validation and model checking of the ASMETA toolset. Formal notations are also applied in the context of testing in the field of combinatorial interaction testing, model-based testing, and conformance runtime verification.
 
-### Markdown
+Il gruppo FM&SE lavora sia per proporre nuovi formalismi di modellazione e tecniche di analisi, sia su come applicare metodi formali ai campi di specifica ed analisi di sistemi complessi. I sistemi oggetto di studio provengono da una vasta gamma di campi di applicazione, compresi i sistemi embedded, applicazioni orientate ai servizi, distribuiti e sistemi autoadattativi, mobili / cloud e sistemi collaborativi sociali, e dispositivi medici. Particolari tecniche impiegate sono Model-driven Engineering ( MDE ) e notazioni come UML e profili UML, Architecture Description Languages, metodi formali basati sullo stato, come le Abstract State Machines, tecniche di validazione e verifica come la simulazione, la validazione basata su scenari e il model checking mediante il toolset ASMETA. Notazioni formali sono applicate anche nel contesto del testing dell’area del combinatorial testing, del test model-based, e della verifica runtime di conformità.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## People
 
-```markdown
-Syntax highlighted code block
+    Gargantini Angelo - Associate Professor
+    Scandurra Patrizia - Associate Professor
+    Silvia Bonfanti - PhD, now post doc
+    Andrea Bombarda - Research assistant
 
-# Header 1
-## Header 2
-### Header 3
+# Former member
 
-- Bulleted
-- List
+    Marco Radavelli - PhD student - expected to graduate in October 2019
+    Paolo Vavassori, PhD, postdoc and Dottorando XXVIII ciclo
 
-1. Numbered
-2. List
+Collaborators
 
-**Bold** and _Italic_ and `Code` text
+    Elvinia Riccobene @ University of Milan
+    Paolo Arcaini@ National Institute of Informatics, Tokyo
+    Matteo Camilli, Assegnista PostDoc University of Milan
 
-[Link](url) and ![Image](src)
-```
+Projects
+    MVM-Adapt
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Software
 
-### Jekyll Themes
+    Asmeta - Abstract State Machine toolbox
+    mutrex - mutation-based test generator for regular expressions
+    ctwedge - Combinatorial Testing Web-based Editor and Generator
+    
+    
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/foselab/foselab.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Our source code on github : https://github.com/fmselab/
