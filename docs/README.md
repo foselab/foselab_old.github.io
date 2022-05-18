@@ -10,10 +10,10 @@ Il gruppo FM&SE lavora sia per proporre nuovi formalismi di modellazione e tecni
 
 ## People
 
-- Gargantini Angelo - Associate Professor
-- Scandurra Patrizia - Associate Professor
-- Silvia Bonfanti - PhD, now post doc
-- Andrea Bombarda - PhD student
+- [Gargantini Angelo](https://cs.unibg.it/gargantini/) - Associate Professor
+- [Scandurra Patrizia](https://cs.unibg.it/scandurra/) - Associate Professor
+- [Silvia Bonfanti](https://cs.unibg.it/bonfanti/) - PhD, now post doc
+- [Andrea Bombarda](https://cs.unibg.it/bombarda/) - PhD student
 
 ## Former member
 
@@ -23,8 +23,8 @@ Il gruppo FM&SE lavora sia per proporre nuovi formalismi di modellazione e tecni
 ## Collaborators
 
 - Elvinia Riccobene @ University of Milan
-- Paolo Arcaini@ National Institute of Informatics, Tokyo
-- Matteo Camilli, Assegnista PostDoc University of Milan
+- Paolo Arcaini @ National Institute of Informatics, Tokyo
+- Matteo Camilli @ Free University of Bozen-Bolzano
 
 ## Projects
 - [MVM-Adapt -(FISR 2020)](mvm-adapt): extending the Mechanical Ventilator Milan (MVM) with adaptive features
