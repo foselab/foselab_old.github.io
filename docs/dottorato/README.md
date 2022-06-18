@@ -13,8 +13,8 @@ Le borse (triennali) sono finanziate al 50% dalle aziende e al 50% dall'universi
 
 Il nostro gruppo di ingegneria del software è coinvolto nei segueni progetti con le seguenti ditte:
 
-- **AI causality inference** con [AISent](https://aisent.io/) ![AISent logo](https://aisent.io/assets/images/logo-black-08.svg|width=50px)
-- **Processi agili per softwre medico** con W&H sterilization
+- **AI causality inference** con [AISent](https://aisent.io/)  <img src="https://aisent.io/assets/images/logo-black-08.svg" width="60">
+- **Processi agili per softwre medico** con [W&H sterilization Italia](https://www.wh.com/en_global/whgroup/company/) <img src="https://www.advantageaustria.org/images/f3128d4b946042b6a776dfc8f79cc4fd" width="60">
 - **Assicurazione della qualità del software CAD/CAM** con DDX
 - **Natural Langauge Processing** nell'ambito dei brevetti con Trix
 
